@@ -1,4 +1,5 @@
-read -p "Enter the number of terms in the Fibonacci series: " n
+echo "Enter the number of terms in the Fibonacci series: " 
+read n
 
 
 a=0

@@ -1,9 +1,9 @@
- "Select an arithmetic operation:"
-echo "1. Addition"
-echo "2. Subtraction"
-echo "3. Multiplication"
-echo "4. Division"
-echo "5. Quit"
+echo "Select an arithmetic operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Quit"
 
 read -p "Enter your choice (1/2/3/4/5): " choice
 
